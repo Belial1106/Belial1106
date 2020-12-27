@@ -15,7 +15,7 @@
 # *I am willing to collaborate as a team player building better code.*
 
 
-### I know more about- </br>
+### I am currrently working with- </br>
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
