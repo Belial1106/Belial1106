@@ -1,7 +1,7 @@
 ### <h2>Hello, I'm Soubhik!
   </br>
 
-<img align="left"  src="https://media.giphy.com/media/xhHbsPhkhHzVQR5Kid/giphy.gif" alt="Soubhik Dutta" width="600" height="200"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+<img align="left"  src="https://media.giphy.com/media/xhHbsPhkhHzVQR5Kid/giphy.gif" alt="Soubhik Dutta" width="600" height="300"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
 <img align="" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200" height="200"/>
 </br></br></br>
 ### Here are some ideas to get you started:</br>
