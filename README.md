@@ -5,10 +5,9 @@
 <img align="" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200" height="200"/>
 </br></br></br>
 ### Here are some ideas to get you started:</br>
-- 🔭 I’m currently more into the **Programming**
-- 🌱 I’m currently learning **Full Stack Web Development.**
-- 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
-- 🤔 I’m looking for help with **again Open Source. This is really fun.**
+- 🔭 I’m currently more into the **Data Analysis**
+- 🌱 I’m currently learning **Statics and Python**
+- 🤔 I’m looking for help with **Open Source. This is really fun.**
 - 💬 Ask me about **Puzzles, Music Theory, Hip-Hop, Psychology,Cosmos.**
 - ⚡ My Mantra: **It's never late to start something new.**
 
@@ -16,12 +15,13 @@
 
 
 ### I am currrently working with- </br>
-![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+
 
 ### Some of the technologies I have worked with-</br>
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
