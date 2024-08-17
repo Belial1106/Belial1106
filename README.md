@@ -5,8 +5,8 @@
 <img align="" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200" height="200"/>
 </br></br></br>
 ### Here are some ideas to get you started:</br>
-- 🔭 I’m currently more into the **Data Analysis**
-- 🌱 I’m currently learning **Statics and Python**
+- 🔭 I’m currently more into the **Full Stack Web Dev**
+- 🌱 I’m currently learning **Angular**
 - 🤔 I’m looking for help with **Open Source. This is really fun.**
 - 💬 Ask me about **Puzzles, Music Theory, Hip-Hop, Psychology,Cosmos.**
 - ⚡ My Mantra: **It's never late to start something new.**
