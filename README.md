@@ -4,7 +4,7 @@
 <img align="left"  src="https://media.giphy.com/media/xhHbsPhkhHzVQR5Kid/giphy.gif" alt="Soubhik Dutta" width="600" height="250"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
 <img align="" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200" height="200"/>
 </br></br></br>
-### Here are some ideas to get you started:</br>
+
 - 🔭 I’m currently more into the **Full Stack Web Dev**
 - 🌱 I’m currently learning **Angular**
 - 🤔 I’m looking for help with **Open Source. This is really fun.**
@@ -27,6 +27,10 @@
 
 
 ### Some of the technologies I have worked with-</br>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
