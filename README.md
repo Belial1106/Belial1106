@@ -16,7 +16,7 @@
 
 ### I am currrently working with- </br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET]()
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Angular]()
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
